@@ -1,5 +1,5 @@
 # Predicting-Cases-of-Stroke-using-Logistic-Regression-and-Multilayer-Perceptron
-Project for Machine Learning class
+Project for Machine Learning course
 
 The project lets you:
 - practice the modelling of a real-life application as a machine learning problem
